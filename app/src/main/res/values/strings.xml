@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="toggle_theme">Toggle Theme</string>
+
+</resources>
