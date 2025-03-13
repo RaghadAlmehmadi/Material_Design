@@ -1,4 +1,3 @@
-# Material_Design
 #  Material Design App (Multi-Language & Dark Mode)
 
 This Android app, built with Jetpack Compose, implements **Material Design** and supports:  
